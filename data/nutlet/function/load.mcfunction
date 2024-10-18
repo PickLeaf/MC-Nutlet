@@ -1,0 +1,2 @@
+scoreboard objectives add Nutlet.Clac dummy
+gamerule commandModificationBlockLimit 2147483647
